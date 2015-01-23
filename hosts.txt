@@ -32,4 +32,3 @@ x
 x
 x
 after check out
-what next
