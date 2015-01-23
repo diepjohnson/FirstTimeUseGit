@@ -37,3 +37,5 @@ test fetch
 
 from new client
 fetch and merge
+merge
+
