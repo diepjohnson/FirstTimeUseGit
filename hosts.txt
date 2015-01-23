@@ -15,12 +15,13 @@
 #
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
-
+good platforms
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
 127.0.0.1       activation.cloud.techsmith.com
 127.0.0.1       oscount.techsmith.com
+<<<<<<< HEAD
 127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com
 android new 
 new new new 
@@ -32,3 +33,14 @@ x
 x
 x
 after check out
+=======
+
+
+android
+iOS 
+iphone 
+
+android line 2009
+android 
+blackberry 
+>>>>>>> 56fa5ff810b8bc76847b9b28b8899a286e88c069
