@@ -21,7 +21,7 @@ good platforms
 #	::1             localhost
 127.0.0.1       activation.cloud.techsmith.com
 127.0.0.1       oscount.techsmith.com
-<<<<<<< HEAD
+
 127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com127.0.0.1       oscount.techsmith.com
 android new 
 new new new 
@@ -33,7 +33,6 @@ x
 x
 x
 after check out
-=======
 
 
 android
@@ -43,4 +42,4 @@ iphone
 android line 2009
 android 
 blackberry 
->>>>>>> 56fa5ff810b8bc76847b9b28b8899a286e88c069
+
